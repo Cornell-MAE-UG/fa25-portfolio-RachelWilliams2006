@@ -8,6 +8,9 @@ permalink: /projects/
 
 [2025-10-07 21-02.pdf](https://github.com/user-attachments/files/22757071/2025-10-07.21-02.pdf)
 
+![Heat exchanger diagram](https://github.com/user-attachments/assets/3ace40c7-dda2-4675-810f-ff6779c61b18)
+
+
 <div class="gallery-container">
 <div class="project-gallery">
     {% for project in site.projects %}
