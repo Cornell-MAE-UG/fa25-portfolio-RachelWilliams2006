@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Rachel Williams
 description              : Rachel Williams - Projects and CV 
-baseurl                  : "/portfolio-RachelWilliams" # Set this to your repo name 
+baseurl                  : "/fa25-portfolio-RachelWilliams2006" # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
