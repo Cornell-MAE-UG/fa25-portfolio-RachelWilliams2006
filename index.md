@@ -6,7 +6,9 @@ title: <Rachel Williams>
 ## About Me
 
 
-![Profile Picture]({{ "C:\Users\rache\Downloads\Rachel Williams_Moses Brown senior portrait-1720187175476.JPG" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ ![Rachel Williams_Moses Brown senior portrait-1720187175476](https://github.com/user-attachments/assets/24607cee-5459-4859-ba74-03886db5fcb9) | relative_url }}){: class="profile-image"}
+
+
 
 
  
