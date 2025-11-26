@@ -20,11 +20,11 @@ Heat exchanger device description:
 The heat exchanger consists of a metal prism with two inlet ports and two outlet ports, allowing for two independent flows through the device. A network of fins creates a large surface area of contact between the two flows. 
 
 Heat exchanger system diagram:
-![System diagram ](https://github.com/user-attachments/assets/42ea5bb4-9d85-4601-8c0c-af18c3cc72ad)
+<img src="https://github.com/user-attachments/assets/42ea5bb4-9d85-4601-8c0c-af18c3cc72ad" alt="System diagram" width="700" height="600">
 
 Data from the experiment:
-![Data](https://github.com/user-attachments/assets/71ac442e-7a13-408b-9c7f-be19c2d082fd)
-![More data thermo](https://github.com/user-attachments/assets/ce923241-22ad-4623-b87f-ab7b72429c1c)
+<img src="https://github.com/user-attachments/assets/71ac442e-7a13-408b-9c7f-be19c2d082fd" alt="Data" width="700" height="600">
+<img src="https://github.com/user-attachments/assets/ce923241-22ad-4623-b87f-ab7b72429c1c" alt="More Data" width="700" height="600">
 
 Conclusions from the parallel setup experiment:
 - The temperature of the hot water increased a similar amount as the cold water decreased (-11.6C for the hot water, +12.6C for the cold water)
@@ -33,7 +33,7 @@ Conclusions from the parallel setup experiment:
 Explanation: The heat exchanger is not 100% efficient in facilitating heat transfer between the hot water and cold water. The two flows are still not in thermal equilibrium.
 
 The system was then altered to an antiparallel flow.
-![Anti-parallel heat exchanger](https://github.com/user-attachments/assets/f11b5b44-ec65-4306-8ecc-b8c7f41adfc2)
+<img src="https://github.com/user-attachments/assets/f11b5b44-ec65-4306-8ecc-b8c7f41adfc2" alt="Anti-parallel heat exchanger" width="700" height="600">
 
 Conclusions from the parallel setup experiment:
 - The anti-parallel setup resulted in a greater temperature change of the hot water and cold water compared to the parallel flow (-17.1C for the hot water, +17.6C for the cold water)
