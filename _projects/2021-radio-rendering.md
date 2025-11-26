@@ -26,6 +26,9 @@ Data from the experiment:
 <img src="https://github.com/user-attachments/assets/71ac442e-7a13-408b-9c7f-be19c2d082fd" alt="Data" width="700" height="200">
 <img src="https://github.com/user-attachments/assets/ce923241-22ad-4623-b87f-ab7b72429c1c" alt="More Data" width="700" height="200">
 
+Mass, energy, and entropy balance equations:
+<img src="https://github.com/user-attachments/assets/0e67e622-9c49-44c3-8815-1986bae96937" alt="Heat Exchanger Diagram" width="700" height="600">
+
 Conclusions from the parallel setup experiment:
 - The temperature of the hot water increased a similar amount as the cold water decreased (-11.6C for the hot water, +12.6C for the cold water)
 - Explanation: The rate of heat transfer both out of the hot flow and into the cold flow are equal to dm/dt(Cp)(deltaT). Approximately all of the heat that is transfered out of the hot flow goes into the cold flow. The mass flow rates of both streams are approximately the same because the same pump is used for both reservoirs, and both have the Cp of water. Therefore, it follows from this equation that both streams should have temperature changes of equal magnitude and opposite signs. The second law of thermodynamics governs that the hot water loses heat to the cold water, generating entropy.
