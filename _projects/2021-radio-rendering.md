@@ -1,10 +1,11 @@
 ---
 layout: project
-title: Heat Exchanger
-description: 
-image: /assets/images/Rachel Williams_Moses Brown senior portrait-1720187175476.JPG
-
+title: Analysis of Functions
+description: Class project with Graphs
+technologies: [MATLAB, python]
+image: /assets/images/function-graph.png
 ---
+
 
 Device setup:
 A hot water reservoir and cold water reservoir are connected to a heat exchanger with plastic tubing. The configuration of the tube's connection to the heat exchanger determines the direction of flow (parallel or antiparallel). The water in the hot reservoir is heated with an electric heater, while the cold water reservoir is a mixture of water and ice. An electric pump is used to pump water from the reservoirs through the heat exchanger and then to two outlet buckets. The hot water is colored with red dye and the cold water has blue dye to keep track of the stream origin. For each experiment, the pumps were run for around 30 seconds and approximately 1-2 gallons of water from each reservoir was run through the heat exchanger.
