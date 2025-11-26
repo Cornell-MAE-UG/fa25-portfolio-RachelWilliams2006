@@ -2,7 +2,7 @@
 layout: project
 title: Heat Exchanger
 description: 
-image: ![Heat exchanger diagram](https://github.com/user-attachments/assets/2b8a3c23-e1f1-4280-a3b1-924c7e6c5da3)
+image: /assets/2b8a3c23-e1f1-4280-a3b1-924c7e6c5da3
 
 ---
 
