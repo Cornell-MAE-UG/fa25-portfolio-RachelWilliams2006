@@ -1,13 +1,12 @@
 ---
 layout: default
 title: <Rachel Williams>
-image: /assets/images/Rachel Williams_Moses Brown senior portrait-1720187175476.JPG
 ---
 
 ## About Me
 
 
-![Profile Picture]({[Rachel Williams_Moses Brown senior portrait-1720187175476](https://github.com/user-attachments/assets/24607cee-5459-4859-ba74-03886db5fcb9) | relative_url }){: class="profile-image"}
+![Profile Picture]({/assets/images/Rachel Williams_Moses Brown senior portrait-1720187175476.JPG | relative_url }){: class="profile-image"}
 
 
 
