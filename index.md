@@ -4,9 +4,6 @@ title: <Rachel Williams>
 ---
 
 ## About Me
-
-
-![Profile Picture]({/assets/images/Rachel Williams_Moses Brown senior portrait-1720187175476.JPG | relative_url }){: class="profile-image"}
 <p><img src="{{ "/assets/images/Rachel Williams_Moses Brown senior portrait-1720187175476.JPG" | relative_url }}" alt="{{ page.imagealt }}" class="project-image" /></p>
 
 
