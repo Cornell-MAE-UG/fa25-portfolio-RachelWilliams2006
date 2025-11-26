@@ -14,7 +14,7 @@ Labeled setup:
 <img src="https://github.com/user-attachments/assets/16a91613-5d1c-4405-8035-303a7cc3f9e9" alt="Heat Exchanger Diagram" width="700" height="600">
 
 Parallel schematic:
-![Parallel heat exchanger](https://github.com/user-attachments/assets/441c8ee9-e412-4b39-8a8d-6073c574f448)
+<img src="https://github.com/user-attachments/assets/441c8ee9-e412-4b39-8a8d-6073c574f448" alt="Parallel heat exchanger" width="700" height="600">
 
 Heat exchanger device description:
 The heat exchanger consists of a metal prism with two inlet ports and two outlet ports, allowing for two independent flows through the device. A network of fins creates a large surface area of contact between the two flows. 
