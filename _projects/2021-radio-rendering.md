@@ -3,7 +3,7 @@ layout: project
 title: Analysis of Functions
 description: Class project with Graphs
 technologies: [MATLAB, python]
-image: /assets/images/function-graph.png
+image: /assets/images/Screenshot 2025-11-25 204034.png
 ---
 
 
