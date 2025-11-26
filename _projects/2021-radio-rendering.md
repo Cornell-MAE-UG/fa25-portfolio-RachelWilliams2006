@@ -2,7 +2,7 @@
 layout: project
 title: Heat Exchanger
 description: 
-image: /assets/2b8a3c23-e1f1-4280-a3b1-924c7e6c5da3
+image: /assets/images/Rachel Williams_Moses Brown senior portrait-1720187175476.JPG
 
 ---
 
