@@ -20,11 +20,11 @@ Heat exchanger device description:
 The heat exchanger consists of a metal prism with two inlet ports and two outlet ports, allowing for two independent flows through the device. A network of fins creates a large surface area of contact between the two flows. 
 
 Heat exchanger system diagram:
-<img src="https://github.com/user-attachments/assets/42ea5bb4-9d85-4601-8c0c-af18c3cc72ad" alt="System diagram" width="700" height="600">
+<img src="https://github.com/user-attachments/assets/42ea5bb4-9d85-4601-8c0c-af18c3cc72ad" alt="System diagram" width="700" height="400">
 
 Data from the experiment:
-<img src="https://github.com/user-attachments/assets/71ac442e-7a13-408b-9c7f-be19c2d082fd" alt="Data" width="700" height="300">
-<img src="https://github.com/user-attachments/assets/ce923241-22ad-4623-b87f-ab7b72429c1c" alt="More Data" width="700" height="300">
+<img src="https://github.com/user-attachments/assets/71ac442e-7a13-408b-9c7f-be19c2d082fd" alt="Data" width="700" height="200">
+<img src="https://github.com/user-attachments/assets/ce923241-22ad-4623-b87f-ab7b72429c1c" alt="More Data" width="700" height="200">
 
 Conclusions from the parallel setup experiment:
 - The temperature of the hot water increased a similar amount as the cold water decreased (-11.6C for the hot water, +12.6C for the cold water)
