@@ -46,13 +46,15 @@ Calculation for the vertical deflection of the beam. The maximum deflection shou
 
 <img src="https://github.com/user-attachments/assets/132c60a2-7583-4f79-aaea-abe4a9e62983" alt="8" width="700" height="700">
 
-Calculation of I, using E = 200GPa for structural steel. Structural steel actually has a better ratio of density to modulus of elasticity than titanium, with (7860kg/m^3)/(200Gpa) = 39.3 for steel vs (4730kg/m^3)/(115Gpa) = 41.1 for titanium. Other materials, like Douglas fir, have an even better ratio, but have such a small E that it would take an unreasonably large cross section to support the load. Therefore, structural steel is the chosen beam material.
+Calculation of I, using E = 200GPa for structural steel. Structural steel actually has a better ratio of density to modulus of elasticity than titanium, with (7860kg/m^3)/(200Gpa) = 39.3 for steel vs (4730kg/m^3)/(115Gpa) = 41.1 for titanium. Other materials, like Douglas fir, have an even better ratio, but have such a small E that it would take an unreasonably large cross section to support the load. Therefore, structural steel is the chosen beam material. The maximum allowable deflection is 3.016cm (0.02*150.8cm).
 
 <img src="https://github.com/user-attachments/assets/174e3fa6-7764-4290-9c30-6bf9cf559e77" alt="1" width="700" height="400">
 
-Calculation of I
+Calculation of I using the formula for a simply supported beam with an applied load at the midspan. Gives the same I as the hand calculated integration.
+
 <img src="https://github.com/user-attachments/assets/39b4f30f-f581-4d1e-9fd3-d83ed5051a45" alt="2" width="700" height="300">
 
+Comparison of different beam cross sections from textbook tables in the general range of I. Cross sectional area corresponds to weight. The beam with the smallest cross sectional area with an I > 0.00854cm^4 is C100x8. 
 
 <img src="https://github.com/user-attachments/assets/fc4873d2-d938-4bad-9609-28b1aa3d65c5" alt="3" width="600" height="180">
 
