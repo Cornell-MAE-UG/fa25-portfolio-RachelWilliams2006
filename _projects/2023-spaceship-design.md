@@ -58,7 +58,7 @@ Comparison of different beam cross sections from textbook tables in the general 
 
 <img src="https://github.com/user-attachments/assets/fc4873d2-d938-4bad-9609-28b1aa3d65c5" alt="3" width="600" height="180">
 
-Final beam cross section design. The total mass of the beam is 5.305kg. The weight would be placed on top or hung below the cross section as shown.
+Final beam cross section design. The total mass of the beam is 5.305kg. The weight would be placed on top of or hung below the cross section.
 <img src="https://github.com/user-attachments/assets/c1fec069-7888-45fd-9fd1-13cb2d4dd00f" alt="4" width="400" height="800">
 
 
