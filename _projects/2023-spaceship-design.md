@@ -54,7 +54,7 @@ Calculation of I using the formula for a simply supported beam with an applied l
 
 <img src="https://github.com/user-attachments/assets/39b4f30f-f581-4d1e-9fd3-d83ed5051a45" alt="2" width="700" height="300">
 
-Comparison of different beam cross sections from textbook tables in the general range of I. Cross sectional area corresponds to weight. The beam with the smallest cross sectional area with an I > 0.00854cm^4 is C100x8. 
+Comparison of different beam cross sections from textbook tables in the general range of I. Cross sectional area corresponds to weight. The beam with the smallest cross sectional area with an I > 0.854x10^6 mm^4 is C100x8. 
 
 <img src="https://github.com/user-attachments/assets/fc4873d2-d938-4bad-9609-28b1aa3d65c5" alt="3" width="600" height="180">
 
