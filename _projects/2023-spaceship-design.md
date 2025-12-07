@@ -11,7 +11,7 @@ image: /assets/images/Statics cover image.jpg
 
 <img src="https://github.com/user-attachments/assets/132c60a2-7583-4f79-aaea-abe4a9e62983" alt="8" width="700" height="700">
 
-<img src="https://github.com/user-attachments/assets/ccbc3d6c-caa5-4f74-822b-5bf5090e9da1" alt="7" width="700" height="600">
+<img src="https://github.com/user-attachments/assets/ccbc3d6c-caa5-4f74-822b-5bf5090e9da1" alt="7" width="700" height="400">
 
 <img src="https://github.com/user-attachments/assets/faf04c0d-ab48-4fa8-9ade-63fdfd0f6c25" alt="6" width="700" height="300">
 
