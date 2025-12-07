@@ -31,8 +31,11 @@ Mass, energy, and entropy balance equations:
 
 Conclusions from the parallel setup experiment:
 - The temperature of the hot water increased a similar amount as the cold water decreased (-11.6C for the hot water, +12.6C for the cold water)
+
 - Explanation: The rate of heat transfer both out of the hot flow and into the cold flow are equal to dm/dt(Cp)(deltaT). Approximately all of the heat that is transfered out of the hot flow goes into the cold flow. The mass flow rates of both streams are approximately the same because the same pump is used for both reservoirs, and both have the Cp of water. Therefore, it follows from this equation that both streams should have temperature changes of equal magnitude and opposite signs. The second law of thermodynamics governs that the hot water loses heat to the cold water, generating entropy.
+
 - The final hot water tempature was still higher than the cold water temperature after the water was run through the heat exchanger.
+
 Explanation: The heat exchanger is not 100% efficient in facilitating heat transfer between the hot water and cold water. The two flows are still not in thermal equilibrium.
 
 The system was then altered to an antiparallel flow.
@@ -40,8 +43,11 @@ The system was then altered to an antiparallel flow.
 
 Conclusions from the parallel setup experiment:
 - The anti-parallel setup resulted in a greater temperature change of the hot water and cold water compared to the parallel flow (-17.1C for the hot water, +17.6C for the cold water)
+
 - Explanation: According to the energy balance equation dQ/dt=dm/dt(Cp)(deltaT), a greater difference between the inlet temperature and outlet temperature will result in a greater rate of heat transfer. This also applies to the hot and cold flows in this experiment. To improve the efficiency of the heat exchanger/to maximize the rate of heat transfer within the device, the temperature difference between the hot and cold flows should be maximized. In the anti-parallel configuration, water molecules from each flow are constantly finding new partners in the other flow to transfer heat to. In contrast, the parallel setup, the same segments of the two flows are coupled throughout the heat exchanger, resulting in a lower and lower temperature difference as the water flows through the device. Greater temperature differences are preserved in the anti-parallel flow, resulting in the greater efficiency that is observed.
+
 - The final cold water temp was actually higher than the final hot water temp (20.4C final hot water temp, 25.6C final cold water temp)
+
 - Explanation: This finding seems to violate the second law of thermodynamics. However, the setup had been run several times before the anti-parallel experiment was carried out and the metal of heat exchanger itself felt cold to the touch after running the experiment. It is possible that non-negligible heat transfer occured between the metal of the heat exchanger and the water streams (+Q for the cold stream and -Q for the hot stream). External heat transfer must have occured somewhere, because it is impossible for heat to be transfered from cold to hot according to the Clausius statement.
 
 
