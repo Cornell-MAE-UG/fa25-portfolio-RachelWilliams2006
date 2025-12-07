@@ -16,6 +16,8 @@ Given design constraints:
 - 1 linear actuator chosen from this catalog: https://www.tolomatic.com/wp-content/uploads/2022/05/2700-4000_29_IMA_cat.pdf
 - All components and supports are rigid
 
+<a href="{{ "[/projects/](https://www.tolomatic.com/wp-content/uploads/2022/05/2700-4000_29_IMA_cat.pdf)" | relative_url }}">catalog</a> 
+
 My chosen design:
 
 <img src="https://github.com/user-attachments/assets/297f1e57-26f6-44bf-ae62-c3e29f0d9c43" alt="5" width="700" height="400">
