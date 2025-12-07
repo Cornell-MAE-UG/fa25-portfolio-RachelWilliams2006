@@ -11,13 +11,13 @@ image: /assets/images/Statics cover image.jpg
 
 <img src="https://github.com/user-attachments/assets/132c60a2-7583-4f79-aaea-abe4a9e62983" alt="8" width="700" height="700">
 
-<img src="https://github.com/user-attachments/assets/b0a11fe2-1836-4229-82e1-53a25d3ba85a9" alt="7" width="700" height="600">
+<img src="https://github.com/user-attachments/assets/ccbc3d6c-caa5-4f74-822b-5bf5090e9da1" alt="7" width="700" height="600">
 
 <img src="https://github.com/user-attachments/assets/faf04c0d-ab48-4fa8-9ade-63fdfd0f6c25" alt="6" width="700" height="300">
 
 <img src="https://github.com/user-attachments/assets/297f1e57-26f6-44bf-ae62-c3e29f0d9c43" alt="5" width="700" height="400">
 
-<img src="https://github.com/user-attachments/assets/c1fec069-7888-45fd-9fd1-13cb2d4dd00f" alt="4" width="700" height="1000">
+<img src="https://github.com/user-attachments/assets/c1fec069-7888-45fd-9fd1-13cb2d4dd00f" alt="4" width="500" height="900">
 
 <img src="https://github.com/user-attachments/assets/39b4f30f-f581-4d1e-9fd3-d83ed5051a45" alt="2" width="700" height="400">
 
