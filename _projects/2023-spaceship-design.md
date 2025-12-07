@@ -28,15 +28,20 @@ By placing the actuator and pivot point of the rigid bar as far away from each o
 - Location of weight: 
 Placing the weight closer to the actuator reduces the amount of weight that can be lifted, but increases the maximum height. Placing the weight closer to the bar pivot increases the amount of weight that can be lifted, but decreases the maximum height.
 
-To strike a balance between maximum weight and maximum height, I chose to place the weight halfway in between the bar pivot and the actuator. 
+To strike a balance between maximum weight and maximum height, I chose to place the weight halfway in between the bar pivot and the actuator. Diagram of my final design: 
 
 <img src="https://github.com/user-attachments/assets/faf04c0d-ab48-4fa8-9ade-63fdfd0f6c25" alt="6" width="700" height="300">
 
+Calculation of the maximum height of the bar, constrained by the maximum stroke of the linear actuator (45.72cm). Maximum height found to be 22.65cm.
+
 <img src="https://github.com/user-attachments/assets/bfbeb36d-78a6-40ab-8ee2-1cba09961cb6" alt="9" width="700" height="600">
+
+Calculation of the maximum weight. The most thrust is required when the bar is almost flat in its starting position. Due to the small initial angle of the bar (5 degrees), it is approximated as horizontal. The maximum weight is found to be 71.62kN or 7.31kg.
+
+<img src="https://github.com/user-attachments/assets/ccbc3d6c-caa5-4f74-822b-5bf5090e9da1" alt="7" width="700" height="400">
 
 <img src="https://github.com/user-attachments/assets/132c60a2-7583-4f79-aaea-abe4a9e62983" alt="8" width="700" height="700">
 
-<img src="https://github.com/user-attachments/assets/ccbc3d6c-caa5-4f74-822b-5bf5090e9da1" alt="7" width="700" height="400">
 
 
 
