@@ -14,7 +14,7 @@ Given design constraints:
 - 1 bar of fixed length
 - 3 pin supports, two of which must be connected to the ground
 - 1 linear actuator chosen from this <a href="https://www.tolomatic.com/wp-content/uploads/2022/05/2700-4000_29_IMA_cat.pdf">catalog</a>
-- All components and supports are rigid
+- Part 1: all components and supports are rigid
 
 My chosen design:
 
@@ -40,15 +40,22 @@ Calculation of the maximum weight. The most thrust is required when the bar is a
 
 <img src="https://github.com/user-attachments/assets/ccbc3d6c-caa5-4f74-822b-5bf5090e9da1" alt="7" width="700" height="400">
 
+Part 2: the bar is no longer considered rigid. Find the lightest bar cross section design such that its vertical deflection is below 2% of its length.
+
+Calculation for the vertical deflection of the beam. The maximum deflection should occur at the midspan of the beam because loading is applied at the midspan and is otherwise symmetric. Maximum deflection should occur when the bar is flat, because that is when the greatest thrust is applied by the actuator.
+
 <img src="https://github.com/user-attachments/assets/132c60a2-7583-4f79-aaea-abe4a9e62983" alt="8" width="700" height="700">
 
+Calculation of I, using E = 200GPa for structural steel. Structural steel actually has a better ratio of density to modulus of elasticity than titanium, with (7860kg/m^3)/(200Gpa) = 39.3 for steel vs (4730kg/m^3)/(115Gpa) = 41.1 for titanium. Other materials, like Douglas fir, have an even better ratio, but have such a small E that it would take an unreasonably large cross section to support the load. Therefore, structural steel is the chosen beam material.
+
+<img src="https://github.com/user-attachments/assets/174e3fa6-7764-4290-9c30-6bf9cf559e77" alt="1" width="700" height="400">
 
 
 <img src="https://github.com/user-attachments/assets/c1fec069-7888-45fd-9fd1-13cb2d4dd00f" alt="4" width="400" height="800">
 
 <img src="https://github.com/user-attachments/assets/39b4f30f-f581-4d1e-9fd3-d83ed5051a45" alt="2" width="700" height="300">
 
-<img src="https://github.com/user-attachments/assets/174e3fa6-7764-4290-9c30-6bf9cf559e77" alt="1" width="700" height="400">
+
 
 <img src="https://github.com/user-attachments/assets/fc4873d2-d938-4bad-9609-28b1aa3d65c5" alt="3" width="600" height="180">
 
