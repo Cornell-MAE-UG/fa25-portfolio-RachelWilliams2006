@@ -6,6 +6,19 @@ technologies: [None]
 image: /assets/images/Statics cover image.jpg
 ---
 
+Goal:
+Design a frame/mechanism to lift the maximum possible weight to the maximum possible height.
+
+Given design constraints:
+- 2D design space 150cm wide x 50cm tall
+- 1 bar of fixed length
+- 3 pin supports, two of which must be connected to the ground
+- 1 linear actuator chosen from this catalog: https://www.tolomatic.com/wp-content/uploads/2022/05/2700-4000_29_IMA_cat.pdf
+- All components and supports are rigid
+
+<img src="https://github.com/user-attachments/assets/297f1e57-26f6-44bf-ae62-c3e29f0d9c43" alt="5" width="700" height="400">
+
+<img src="https://github.com/user-attachments/assets/faf04c0d-ab48-4fa8-9ade-63fdfd0f6c25" alt="6" width="700" height="300">
 
 <img src="https://github.com/user-attachments/assets/bfbeb36d-78a6-40ab-8ee2-1cba09961cb6" alt="9" width="700" height="600">
 
@@ -13,9 +26,7 @@ image: /assets/images/Statics cover image.jpg
 
 <img src="https://github.com/user-attachments/assets/ccbc3d6c-caa5-4f74-822b-5bf5090e9da1" alt="7" width="700" height="400">
 
-<img src="https://github.com/user-attachments/assets/faf04c0d-ab48-4fa8-9ade-63fdfd0f6c25" alt="6" width="700" height="300">
 
-<img src="https://github.com/user-attachments/assets/297f1e57-26f6-44bf-ae62-c3e29f0d9c43" alt="5" width="700" height="400">
 
 <img src="https://github.com/user-attachments/assets/c1fec069-7888-45fd-9fd1-13cb2d4dd00f" alt="4" width="400" height="800">
 
