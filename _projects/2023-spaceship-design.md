@@ -3,7 +3,7 @@ layout: project
 title: Weight lifting mechanism
 description: Weight lifting mechanism
 technologies: [SolidWorks, Machining]
-image: /assets/images/spaceship-design.jpg
+image: /assets/images/Statics cover image.jpg
 ---
 
 Weight lifting mechanism:
