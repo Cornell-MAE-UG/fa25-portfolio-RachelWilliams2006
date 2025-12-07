@@ -13,10 +13,8 @@ Given design constraints:
 - 2D design space 150cm wide x 50cm tall
 - 1 bar of fixed length
 - 3 pin supports, two of which must be connected to the ground
-- 1 linear actuator chosen from this catalog: https://www.tolomatic.com/wp-content/uploads/2022/05/2700-4000_29_IMA_cat.pdf
+- 1 linear actuator chosen from this <a href="https://www.tolomatic.com/wp-content/uploads/2022/05/2700-4000_29_IMA_cat.pdf">catalog</a>
 - All components and supports are rigid
-
-<a href="https://www.tolomatic.com/wp-content/uploads/2022/05/2700-4000_29_IMA_cat.pdf">catalog</a>
 
 My chosen design:
 
