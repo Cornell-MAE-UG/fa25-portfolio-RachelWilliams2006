@@ -23,5 +23,5 @@ image: /assets/images/Statics cover image.jpg
 
 <img src="https://github.com/user-attachments/assets/174e3fa6-7764-4290-9c30-6bf9cf559e77" alt="1" width="700" height="400">
 
-<img src="https://github.com/user-attachments/assets/fc4873d2-d938-4bad-9609-28b1aa3d65c5" alt="3" width="600" height="150">
+<img src="https://github.com/user-attachments/assets/fc4873d2-d938-4bad-9609-28b1aa3d65c5" alt="3" width="600" height="180">
 
