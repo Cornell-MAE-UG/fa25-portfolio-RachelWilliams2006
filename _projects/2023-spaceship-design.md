@@ -36,7 +36,7 @@ Calculation of the maximum height of the bar, constrained by the maximum stroke 
 
 <img src="https://github.com/user-attachments/assets/bfbeb36d-78a6-40ab-8ee2-1cba09961cb6" alt="9" width="700" height="600">
 
-Calculation of the maximum weight. The most thrust is required when the bar is almost flat in its starting position. The peak thrust of IMA55-RN05 is 35.81kN. Due to the small initial angle of the bar (5 degrees), it is approximated as horizontal. The maximum weight is found to be 71.62kN or 7.31kg.
+Calculation of the maximum weight. The most thrust is required when the bar is almost flat in its starting position. The peak thrust of IMA55-RN05 is 35.81kN. Due to the small initial angle of the bar (5 degrees), it is approximated as horizontal. The weight of the bar itself was assumed to be negligible. The maximum weight is found to be 71.62kN or 7.31kg.
 
 <img src="https://github.com/user-attachments/assets/ccbc3d6c-caa5-4f74-822b-5bf5090e9da1" alt="7" width="700" height="400">
 
@@ -58,7 +58,7 @@ Comparison of different beam cross sections from textbook tables in the general 
 
 <img src="https://github.com/user-attachments/assets/fc4873d2-d938-4bad-9609-28b1aa3d65c5" alt="3" width="600" height="180">
 
-Final beam design:
+Final beam cross section design. The total mass of the beam is 5.305kg. The weight would be placed on top or hung below the cross section as shown.
 <img src="https://github.com/user-attachments/assets/c1fec069-7888-45fd-9fd1-13cb2d4dd00f" alt="4" width="400" height="800">
 
 
