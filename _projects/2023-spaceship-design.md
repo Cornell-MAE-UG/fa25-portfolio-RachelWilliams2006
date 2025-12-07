@@ -2,7 +2,7 @@
 layout: project
 title: Linear Actuator
 description: Linear Actuator
-technologies: [SolidWorks, Machining]
+technologies: [None]
 image: /assets/images/Statics cover image.jpg
 ---
 
