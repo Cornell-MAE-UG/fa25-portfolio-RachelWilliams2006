@@ -3,7 +3,7 @@ layout: project
 title: Linear Actuator
 description: Linear Actuator
 technologies: [None]
-image: /assets/images/Statics cover image.jpg
+image: /assets/images/Screenshot 2025-12-07 095544.png
 ---
 
 Goal:
