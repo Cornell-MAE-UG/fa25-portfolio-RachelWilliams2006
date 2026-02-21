@@ -17,29 +17,59 @@ header-includes:
 
 ## Problem statement
 
-SLFs feed on the phloem of grapevines, which reduces nitrogen and carbon in the roots and soil and affects the taste and size of future grape harvests. If SLFs are left unchecked, they can ultimately kill an entire vineyard. Moreover, the accepted tolerance of SLFs in grape products is low, with only 1–2 SLFs per kilogram of grapes required to reject a 22 ton batch. Ensuring that there are no SLFs on the vine before harvest begins will also address the contamination problem without adding complexity or delaying the harvesting process.
+Spotted lanterflies (abbreviated SLFs) feed on the phloem of grapevines, which reduces nitrogen and carbon in the roots and soil and affects the taste and size of future grape harvests. If SLFs are left unchecked, they can decimate a vineyard. In addition to the threat of long term damage, the accepted tolerance of SLFs in grape products is low, with only 1–2 SLFs per kilogram of grapes required to reject a 22 ton batch. There is a large influx of SLFs from late August to October, coinciding with peak harvest time. Many pesticides are not effective at controlling SLF populations during harvest due to their pre harvest interal. SLFs are highly mobile and repopulate in the between application and harvest.
 
 
 ## Impact
 
-Solving this problem is beneficial to the grape industry, as preventing SLFs from accessing grapevines decreases the number of throwaway batches while improving the quality of present and future harvests alike. Grape harvests have an extremely low tolerance for the number of SLFs allowed. Just 1–2 grams of SLFs (about 1–2 SLFs) per kilogram of grapes is sufficient to throw out the entire 22-ton batch, leading to loss of profit and wasted material. Eliminating SLFs before they ever reach the vine preserves the integrity of the current crop of grapes, improving the profitability of harvest. Furthermore, SLFs feed on grapevine phloem, and while healthy vines can produce quality fruit for 50+ years, this useful life diminishes as SLFs cause vine health to deteriorate. Eliminating lanternflies will preserve the health of the vines, prolonging the useful life of the vines and ensuring profitability on a longer time scale.
+Solving this problem is beneficial to the grape industry, as preventing SLFs from accessing grapevines decreases the number of throwaway batches while improving the quality of present and future harvests alike. Decreasing the number of SLFs in the vineyard preserves the integrity of the current crop of grapes, improving the profitability of harvest. Furthermore, SLFs feed on grapevine phloem, and while healthy vines can produce quality fruit for 50+ years, this useful life diminishes as SLFs cause vine health to deteriorate. Eliminating lanternflies will preserve the health of the vines, prolonging the useful life of the vines and ensuring profitability on a longer time scale. Reducing the general SLF population will address the contamination problem without adding complexity or delaying the harvesting process. Although there are already pesticides that are effective at killing SLFs, finding a way to lure the SlFs away from the vines before using pesticides would make it possible to use a broad range of pesticides with longer pre harvest intervals and to manage the population during active harvest times. According to the Penn State Extension guidance on SLF management, "on average, 54 percent of the SLF population is within the first 50 feet of the vineyard edge." Therefore, a more targeted approach utilizing the unique behavior of SLFs can help avoid the traditional pesticide spraying methods across the entire vineyard with air blast sprayers. 
 
 ## Proposed direction
 
-(primary): <1-line name> **Electrical Fence Lure and Pesticide Spraying Mechanism** <1–2 sentences.> **How it would be used:** <2–4 bullet “user
-flow” steps.> **Why it’s better than the status quo:** <2–3 bullets.> **End-of-semester proof-of-concept:**
+**Electrical Fence Lure and Pesticide Spraying Mechanism (Solution A)**
+**How it would be used:**
+- Research shows that SLF's are attracted to frequencies of 60hz, a common electric fence frequency (Rohde)
+- Part 1: Place a 60hz electric fence (low voltage) around the perimeter of the vineyard
+- Part 2: Spray the SLFs on the fence with pesticides 
+**Why it’s better than the status quo:**
+- Would allow the use of a broad range of pesticides with longer pre harvest intervals
+**End-of-semester proof-of-concept:**
+- Component 1: Electric fence installation method - raise above ground?
+- Component 2: Pesticide spraying mechanism
+- Component 3: Shield to prevent overspray of pesticide onto vine
+
+**Electrical Fence Lure with Lethal Voltage (Solution B)**
+**How it would be used:**
+- Instead of killing the SLFs with pesticide, use a high voltage fence (3,000+V wire) to zap SLFs as they land
+**Why it’s better than the status quo:**
+- Avoids the use of expensive pesticides altogether
+**End-of-semester proof-of-concept:**
+- Component 1: Electric fence installation method - raise above ground?
+- Component 2: Safety shield to prevent accidental injuries
+- Component 3: Proof of the required voltage to kill a SLF
 
 ## Key Risks / Unknowns
 
-The key risks of focusing on our proposed problem are the scale of the solution required. New York State has over 30,000 acres of vineyards, and to block SLFs from entering vineyards would require many resources just to physically cover a lot of space. In addition, because our solution focuses on prevention, if it is ineffective and does allow a significant number of SLFs to enter vineyards, then we have no way to sort SLFs from grapes during harvesting.
-
-Furthermore, the use of an electrified wire to attract spotted lanternflies may cause ecological disturbance beyond the desired scope of impact. More specifically, it is possible that other insects (perhaps even those beneficial to agriculture such as pollinators) may be attracted to the utilized frequencies and would also be eliminated by the pesticide sprayer. Additionally, depending on the particular implementation of this solution, it is possible that this electrified wire would pose harm to larger animals passing through areas adjacent to grapevines, such as deer, raccoons, foxes, rabbits, and other mammals commonly found in the Northeastern U.S.
+- Infrastructure investment
+      - New York State has over 30,000 acres of vineyards
+      - Many miles of electric fence and pesticide sprayers (for Solution A) would be required
+- Prevention vs targeted harvest solution
+      - No way to sort SLFs from grapes during harvesting if our solution does not completely eliminate SLFs in the vineyard
+- Ecological disturbance
+      - Other insects, including beneficials, may be attracted to the wire frequency and eliminated along with the SLFs
+      - The electrified wire could pose harm to larger animals such as deer, raccoons, foxes, rabbits, and other mammals commonly found in the Northeastern U.S
+- Interaction between the electrified wire and pesticides
+      - Spraying pesticide on an electric fence may have adverse effects
+- Attraction effectiveness
+      - It will be difficult to the effectiveness of the wire in attracting SLFs
+- Attracting SLFs from outside areas
+      - The wire may also attract SLFs from areas outside the vineyard
 
 ## Questions for the client 
 
-1. Has anyone tried to attract SLF’s before? 
+1. Has anyone tried to attract SLFs before? 
 2. When spotted lanternflies do get on the grapevines, do they jump around on the same vine, or jump to different grapevine rows?
-3. Have you observed how much voltage is required to kill SLF’s or similar bugs?
+3. Have you observed how much voltage is required to kill SLFs or similar bugs?
 
 <div style="display:none;">
 \newpage
