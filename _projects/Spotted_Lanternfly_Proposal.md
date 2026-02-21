@@ -13,7 +13,7 @@ header-includes:
 # Spotted Lanternflies 
 **Team:** _Sinicus_ 
 **Client(s):** _Cornell CALS Extension / E\&J Gallo Winery / National Grape_
-
+##
 ## Problem statement
 
 Spotted lanternflies (abbreviated SLFs) feed on the phloem of grapevines, which reduces nitrogen and carbon in the roots and soil and affects the taste and size of future grape harvests. If SLFs are left unchecked, they can decimate a vineyard. In addition to the threat of long term damage, the accepted tolerance of SLFs in grape products is low, with only 1–2 SLFs per kilogram of grapes required to reject a 22 ton batch. There is a large influx of SLFs from late August to October, coinciding with peak harvest time. Many pesticides are not effective at controlling SLF populations during harvest due to long pre harvest intervals (7-30 days). SLFs are highly mobile and repopulate in between application and harvest.
