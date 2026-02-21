@@ -87,6 +87,7 @@ Although there are already pesticides that are effective at killing SLFs, findin
 - **Attracting SLFs from outside areas**
   - The wire may also attract SLFs from areas outside the vineyard
 
+---
   
 ## Questions for the client 
 
@@ -95,11 +96,14 @@ Although there are already pesticides that are effective at killing SLFs, findin
 3. Do SLFs stay on the same grapevine after landing or will they jump to different grapevine rows?
 4. Have you observed how much voltage is required to kill SLF’s or similar bugs?
 
+---
+
 <div style="display:none;">
 </div>
 
 ## Figure
 
+---
 
 ## References
 Harner, Andrew D., Heather L. Leach, Lauren Briggs, and Michela Centinari. 2022. “Prolonged Phloem Feeding by the Spotted Lanternfly, an Invasive Planthopper, Alters Resource Allocation and Inhibits Gas Exchange in Grapevines.” Plant Direct 6 (10). <a href="https://doi.org/10.1002/pld3.452">https://doi.org/10.1002/pld3.452.</a>
