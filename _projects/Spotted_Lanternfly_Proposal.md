@@ -31,8 +31,10 @@ Solving this problem is beneficial to the grape industry, as preventing SLFs fro
 - Research shows that SLF's are attracted to frequencies of 60hz, a common electric fence frequency (Rohde)
 - Part 1: Place a 60hz electric fence (low voltage) around the perimeter of the vineyard
 - Part 2: Spray the SLFs on the fence with pesticides<br>
+##
 **Why it’s better than the status quo:** <br>
 - Would allow the use of a broad range of pesticides with longer pre harvest intervals<br>
+##
 **End-of-semester proof-of-concept:** <br>
 - Component 1: Electric fence installation method - raise above ground?
 - Component 2: Pesticide spraying mechanism
