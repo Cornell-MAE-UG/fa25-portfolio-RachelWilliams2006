@@ -26,29 +26,29 @@ Solving this problem is beneficial to the grape industry, as preventing SLFs fro
 
 ## Proposed direction
 
-**Electrical Fence Lure and Pesticide Spraying Mechanism (Solution A)**
-**How it would be used:**
+**Electrical Fence Lure and Pesticide Spraying Mechanism (Solution A)** <br>
+**How it would be used:** <br>
 - Research shows that SLF's are attracted to frequencies of 60hz, a common electric fence frequency (Rohde)
 - Part 1: Place a 60hz electric fence (low voltage) around the perimeter of the vineyard
 - Part 2: Spray the SLFs on the fence with pesticides 
-**Why it’s better than the status quo:**
+**Why it’s better than the status quo:** <br>
 - Would allow the use of a broad range of pesticides with longer pre harvest intervals
-**End-of-semester proof-of-concept:**
+**End-of-semester proof-of-concept:** <br>
 - Component 1: Electric fence installation method - raise above ground?
 - Component 2: Pesticide spraying mechanism
 - Component 3: Shield to prevent overspray of pesticide onto vine
 
-**Electrical Fence Lure with Lethal Voltage (Solution B)**
-**How it would be used:**
+**Electrical Fence Lure with Lethal Voltage (Solution B)** <br>
+**How it would be used:** <br>
 - Instead of killing the SLFs with pesticide, use a high voltage fence (3,000+V wire) to zap SLFs as they land
-**Why it’s better than the status quo:**
+**Why it’s better than the status quo:** <br>
 - Avoids the use of expensive pesticides altogether
-**End-of-semester proof-of-concept:**
+**End-of-semester proof-of-concept:** <br>
 - Component 1: Electric fence installation method - raise above ground?
 - Component 2: Safety shield to prevent accidental injuries
 - Component 3: Proof of the required voltage to kill a SLF
 
-## Key Risks / Unknowns
+## Key Risks / Unknowns <br>
 
 - Infrastructure investment
       - New York State has over 30,000 acres of vineyards
