@@ -33,17 +33,17 @@ Although there are already pesticides that are effective at killing SLFs, findin
 
 ---
 
-### Electrical Fence Lure and Pesticide Spraying Mechanism (Solution A)
+#### Electrical Fence Lure and Pesticide Spraying Mechanism (Solution A)
 
-#### How it would be used:
+##### How it would be used:
 - Research shows that SLFs are attracted to frequencies of 60hz, a common electric fence frequency (Rohde)
 - Part 1: Place a 60hz electric fence (low voltage) around the perimeter of the vineyard
 - Part 2: Spray the SLFs on the fence with pesticides
 
-#### Why it’s better than the status quo:
+##### Why it’s better than the status quo:
 - Would allow the use of a broad range of pesticides with longer pre-harvest intervals
 
-#### End-of-semester proof-of-concept:
+##### End-of-semester proof-of-concept:
 - Component 1: Electric fence installation method to raise wire above ground
 - Component 2: Pesticide spraying mechanism
 - Component 3: Shield to prevent overspray of pesticide onto vine
