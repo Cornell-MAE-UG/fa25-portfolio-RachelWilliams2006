@@ -50,15 +50,15 @@ Although there are already pesticides that are effective at killing SLFs, findin
 
 ---
 
-### Electrical Fence Lure with Lethal Voltage (Solution B)
+#### Electrical Fence Lure with Lethal Voltage (Solution B)
 
-#### How it would be used:
+##### How it would be used:
 - Instead of killing the SLFs with pesticide, use a high voltage fence (3,000+V wire) to zap SLFs as they land
 
-#### Why it’s better than the status quo:
+##### Why it’s better than the status quo:
 - Avoids the use of expensive pesticides altogether
 
-#### End-of-semester proof-of-concept:
+##### End-of-semester proof-of-concept:
 - Component 1: Electric fence installation method to raise wire above ground
 - Component 2: Safety shield to prevent accidental injuries
 - Component 3: Proof of the required voltage to kill a SLF
