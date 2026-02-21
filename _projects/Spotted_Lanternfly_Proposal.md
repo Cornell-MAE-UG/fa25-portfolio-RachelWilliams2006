@@ -30,9 +30,9 @@ Solving this problem is beneficial to the grape industry, as preventing SLFs fro
 **How it would be used:** <br>
 - Research shows that SLF's are attracted to frequencies of 60hz, a common electric fence frequency (Rohde)
 - Part 1: Place a 60hz electric fence (low voltage) around the perimeter of the vineyard
-- Part 2: Spray the SLFs on the fence with pesticides 
+- Part 2: Spray the SLFs on the fence with pesticides <br>
 **Why it’s better than the status quo:** <br>
-- Would allow the use of a broad range of pesticides with longer pre harvest intervals
+- Would allow the use of a broad range of pesticides with longer pre harvest intervals <br>
 **End-of-semester proof-of-concept:** <br>
 - Component 1: Electric fence installation method - raise above ground?
 - Component 2: Pesticide spraying mechanism
@@ -40,30 +40,30 @@ Solving this problem is beneficial to the grape industry, as preventing SLFs fro
 
 **Electrical Fence Lure with Lethal Voltage (Solution B)** <br>
 **How it would be used:** <br>
-- Instead of killing the SLFs with pesticide, use a high voltage fence (3,000+V wire) to zap SLFs as they land
+- Instead of killing the SLFs with pesticide, use a high voltage fence (3,000+V wire) to zap SLFs as they land <br>
 **Why it’s better than the status quo:** <br>
-- Avoids the use of expensive pesticides altogether
+- Avoids the use of expensive pesticides altogether <br>
 **End-of-semester proof-of-concept:** <br>
 - Component 1: Electric fence installation method - raise above ground?
 - Component 2: Safety shield to prevent accidental injuries
-- Component 3: Proof of the required voltage to kill a SLF
+- Component 3: Proof of the required voltage to kill a SLF <br>
 
 ## Key Risks / Unknowns <br>
 
-- Infrastructure investment
+- Infrastructure investment <br>
       - New York State has over 30,000 acres of vineyards
-      - Many miles of electric fence and pesticide sprayers (for Solution A) would be required
-- Prevention vs targeted harvest solution
-      - No way to sort SLFs from grapes during harvesting if our solution does not completely eliminate SLFs in the vineyard
-- Ecological disturbance
+      - Many miles of electric fence and pesticide sprayers (for Solution A) would be required <br>
+- Prevention vs targeted harvest solution <br>
+      - No way to sort SLFs from grapes during harvesting if our solution does not completely eliminate SLFs in the vineyard <br>
+- Ecological disturbance <br>
       - Other insects, including beneficials, may be attracted to the wire frequency and eliminated along with the SLFs
-      - The electrified wire could pose harm to larger animals such as deer, raccoons, foxes, rabbits, and other mammals commonly found in the Northeastern U.S
-- Interaction between the electrified wire and pesticides
-      - Spraying pesticide on an electric fence may have adverse effects
-- Attraction effectiveness
-      - It will be difficult to the effectiveness of the wire in attracting SLFs
-- Attracting SLFs from outside areas
-      - The wire may also attract SLFs from areas outside the vineyard
+      - The electrified wire could pose harm to larger animals such as deer, raccoons, foxes, rabbits, and other mammals commonly found in the Northeastern U.S <br>
+- Interaction between the electrified wire and pesticides <br>
+      - Spraying pesticide on an electric fence may have adverse effects <br>
+- Attraction effectiveness <br>
+      - It will be difficult to the effectiveness of the wire in attracting SLFs <br>
+- Attracting SLFs from outside areas <br>
+      - The wire may also attract SLFs from areas outside the vineyard <br>
 
 ## Questions for the client 
 
