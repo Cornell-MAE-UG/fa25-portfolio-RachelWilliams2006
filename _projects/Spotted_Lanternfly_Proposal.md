@@ -36,7 +36,7 @@ Solving this problem is beneficial to the grape industry, as preventing SLFs fro
 **End-of-semester proof-of-concept:** <br>
 - Component 1: Electric fence installation method - raise above ground?
 - Component 2: Pesticide spraying mechanism
-- Component 3: Shield to prevent overspray of pesticide onto vine
+- Component 3: Shield to prevent overspray of pesticide onto vine <br>
 
 **Electrical Fence Lure with Lethal Voltage (Solution B)** <br>
 **How it would be used:** <br>
