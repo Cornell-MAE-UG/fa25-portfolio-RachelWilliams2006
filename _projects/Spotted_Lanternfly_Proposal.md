@@ -31,7 +31,7 @@ Although there are already pesticides that are effective at killing SLFs, findin
 
 ## Proposed Direction
 
-#### Electrical Fence Lure with Pesticide Spraying Mechanism or High Voltage
+#### Electrical fence lure with SLF execution achieved with pesticide spraying mechanism or high voltage
 
 ##### How it would be used:
 - Research shows that SLFs are attracted to frequencies of 60hz, a common electric fence frequency (Rohde)
