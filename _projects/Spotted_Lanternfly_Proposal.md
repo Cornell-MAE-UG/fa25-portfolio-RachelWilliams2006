@@ -13,7 +13,7 @@ header-includes:
 # Spotted Lanternflies 
 **Team:** _Sinicus_ 
 **Client(s):** _Cornell CALS Extension / E\&J Gallo Winery / National Grape_
-##
+
 ## Problem statement
 
 Spotted lanternflies (abbreviated SLFs) feed on the phloem of grapevines, which reduces nitrogen and carbon in the roots and soil and affects the taste and size of future grape harvests. If SLFs are left unchecked, they can decimate a vineyard. In addition to the threat of long term damage, the accepted tolerance of SLFs in grape products is low, with only 1–2 SLFs per kilogram of grapes required to reject a 22 ton batch. There is a large influx of SLFs from late August to October, coinciding with peak harvest time. Many pesticides are not effective at controlling SLF populations during harvest due to long pre harvest intervals (7-30 days). SLFs are highly mobile and repopulate in between application and harvest.
@@ -90,20 +90,6 @@ Although there are already pesticides that are effective at killing SLFs, findin
 
 ## Figure
 
-<div style="display:none;">
-![](C:\Users\eherr\Documents\fa25-portfolio-eh697\assets\images\odp_figure.jpg "Optional title/tooltip text") 
-</div>
-
-<div>
-<figure style="text-align: center;">
-  <img src="{{ '/assets/images/odp_figure.jpg' | relative_url }}"
-       alt="odp diagram"
-       style="max-width:100%; height:auto;">
-  <figcaption>
-    <strong>Figure 1:</strong> Diagram of intended full scale solution and proof of concept for this class.
-  </figcaption>
-</figure>
-</div>
 
 ## References
 Harner, Andrew D., Heather L. Leach, Lauren Briggs, and Michela Centinari. 2022. “Prolonged Phloem Feeding by the Spotted Lanternfly, an Invasive Planthopper, Alters Resource Allocation and Inhibits Gas Exchange in Grapevines.” Plant Direct 6 (10). <a href="https://doi.org/10.1002/pld3.452">https://doi.org/10.1002/pld3.452.</a>
