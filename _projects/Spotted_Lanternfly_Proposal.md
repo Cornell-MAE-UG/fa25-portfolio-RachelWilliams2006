@@ -53,7 +53,8 @@ Although there are already pesticides that are effective at killing SLFs, findin
 
 - **Infrastructure investment**
   - New York State has over 30,000 acres of vineyards
-  - Many miles of electric fence and pesticide sprayers (for Solution A) would be required
+  - Many miles of electric fence and pesticide sprayers would be required
+  - Electricity use could be expensive
 
 - **Prevention vs targeted harvest solution**
   - No way to sort SLFs from grapes during harvesting if our solution does not completely eliminate SLFs in the vineyard
