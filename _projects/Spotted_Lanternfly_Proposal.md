@@ -89,12 +89,12 @@ Although there are already pesticides that are effective at killing SLFs, findin
 ## Figure
 
 <div style="display:none;">
-![](C:\Users\eherr\Documents\fa25-portfolio-eh697\assets\images\odp_figure.jpg "Optional title/tooltip text") 
+![](C:\Users\eherr\Documents\fa25-portfolio-eh697\assets\images\IMG-0954.JPEG "Optional title/tooltip text") 
 </div>
 
 <div>
 <figure style="text-align: center;">
-  <img src="{{ '/assets/images/odp_figure.jpg' | relative_url }}"
+  <img src="{{ '/assets/images/IMG-0954.JPEG' | relative_url }}"
        alt="odp diagram"
        style="max-width:100%; height:auto;">
   <figcaption>
