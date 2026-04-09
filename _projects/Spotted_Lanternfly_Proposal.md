@@ -11,7 +11,6 @@ pagestyle: empty
 header-includes: 
     - \pagenumbering{gobble} 
 --- 
-# Spotted Lanternflies 
 **Team:** _Sinicus_ 
 **Client(s):** _Cornell CALS Extension / E\&J Gallo Winery / National Grape_
 
