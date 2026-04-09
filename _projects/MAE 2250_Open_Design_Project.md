@@ -1,6 +1,7 @@
 ---
 layout: project
 title: MAE 2250 - Open Design Project
+image: /assets/images/IMG-0954.JPEG
 description: Class Assignment
 fontsize: 11pt 
 geometry: margin=1in 
