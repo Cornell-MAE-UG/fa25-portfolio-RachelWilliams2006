@@ -1,6 +1,6 @@
 ---
 layout: project
-title: MAE 2250 - Open Design Project
+title: Client Pitch
 permalink: /spotted-lanternfly-proposal/
 description: Class Assignment
 image: /assets/images/Spotted lanternfly.jpeg
