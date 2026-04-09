@@ -1,7 +1,7 @@
 ---
 layout: project
 title: MAE 2250 - Open Design Project
-image: /assets/images/IMG-0954.JPEG
+image: /assets/images/Spotted lanternfly.jpeg
 description: Class Assignment
 fontsize: 11pt 
 geometry: margin=1in 
