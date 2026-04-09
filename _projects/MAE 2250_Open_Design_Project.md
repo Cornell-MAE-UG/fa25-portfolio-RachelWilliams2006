@@ -17,7 +17,7 @@ header-includes:
 <div class="project-card-grid">
   <a href="{{ '/spotted-lanternfly-proposal/' | relative_url }}" class="project-card-link">
     <div class="project-card">
-      <img src="{{ '/assets/images/client_pitch_image.jpg' | relative_url }}" alt="Client Pitch" class="project-card-image">
+      <img src="{{ '/assets/images/IMG-0954.JPEG' | relative_url }}" alt="Client Pitch" class="project-card-image">
       <div class="project-card-body">
         <p class="project-card-title">Client Pitch</p>
       </div>
