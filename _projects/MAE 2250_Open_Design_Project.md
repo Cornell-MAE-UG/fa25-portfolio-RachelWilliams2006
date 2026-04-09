@@ -13,4 +13,5 @@ header-includes:
 
 
 
-[Client proposal](../Spotted_Lanternfly_Proposal.md)
+- [Spotted Lanternfly Proposal]({{ site.baseurl }}/Spotted_Lanternfly_Proposal/)
+- [Spotted Lanternfly Prototype]({{ site.baseurl }}/Spotted_Lanternfly_Prototype/)
