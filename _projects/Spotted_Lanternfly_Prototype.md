@@ -1,6 +1,7 @@
 ---
 layout: project
 title: MAE 2250 - ODP Functional Prototype Documentation
+permalink: /spotted-lanternfly-prototype/
 description: Class Assignment
 image: /assets/images/spotted-lanternfly2.jpg
 fontsize: 11pt
