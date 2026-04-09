@@ -3,7 +3,7 @@ layout: project
 title: Functional Prototype
 permalink: /spotted-lanternfly-prototype/
 description: Class Assignment
-image: /assets/images/spotted-lanternfly2.jpg
+image: /assets/images/Functional prototype.jpg
 fontsize: 11pt
 geometry: margin=1in
 papersize: letter
