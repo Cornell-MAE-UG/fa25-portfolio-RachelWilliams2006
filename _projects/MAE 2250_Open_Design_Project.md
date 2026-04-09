@@ -13,4 +13,4 @@ header-includes:
 
 
 
-[Client proposal](Spotted_Lanternfly_Proposal.md)
+[Client proposal](../Spotted_Lanternfly_Proposal.md)
