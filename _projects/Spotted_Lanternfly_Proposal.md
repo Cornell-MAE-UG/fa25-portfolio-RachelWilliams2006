@@ -3,7 +3,7 @@ layout: project
 title: Client Pitch
 permalink: /spotted-lanternfly-proposal/
 description: Class Assignment
-image: /assets/images/Spotted lanternfly.jpeg
+image: /assets/images/IMG-0954.JPEG
 fontsize: 11pt 
 geometry: margin=1in 
 papersize: letter 
