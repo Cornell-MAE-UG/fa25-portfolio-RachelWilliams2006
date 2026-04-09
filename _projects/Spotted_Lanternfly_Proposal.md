@@ -1,6 +1,7 @@
 ---
 layout: project
 title: MAE 2250 - Open Design Project
+permalink: /spotted-lanternfly-proposal/
 description: Class Assignment
 image: /assets/images/Spotted lanternfly.jpeg
 fontsize: 11pt 
