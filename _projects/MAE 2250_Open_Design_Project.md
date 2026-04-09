@@ -11,7 +11,8 @@ header-includes:
     - \pagenumbering{gobble} 
 --- 
 
-{% include spotted_proposal.md %}
+{% include spotted_lanternfly_proposal.md %}
+{% include spotted_lanterfly_prototype.md %}
 
 - [Client Pitch]({{ "/spotted-lanternfly-proposal/" | relative_url }})
 - [Functional Prototype]({{ "/spotted-lanternfly-prototype/" | relative_url }})
