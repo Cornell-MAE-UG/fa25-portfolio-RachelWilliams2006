@@ -13,5 +13,5 @@ header-includes:
 
 
 
-- [Spotted Lanternfly Proposal]({{ "/spotted-lanternfly-proposal/" | relative_url }})
-- [Spotted Lanternfly Prototype]({{ "/spotted-lanternfly-prototype/" | relative_url }})
+- [Client Pitch]({{ "/spotted-lanternfly-proposal/" | relative_url }})
+- [Functional Prototype]({{ "/spotted-lanternfly-prototype/" | relative_url }})
