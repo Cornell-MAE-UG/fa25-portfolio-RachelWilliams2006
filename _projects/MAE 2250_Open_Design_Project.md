@@ -26,7 +26,7 @@ header-includes:
 
   <a href="{{ '/spotted-lanternfly-prototype/' | relative_url }}" class="project-card-link">
     <div class="project-card">
-      <img src="{{ '/assets/images/functional_prototype_image.jpg' | relative_url }}" alt="Functional Prototype" class="project-card-image">
+      <img src="{{ '/assets/images/Functional prototype.jpg' | relative_url }}" alt="Functional Prototype" class="project-card-image">
       <div class="project-card-body">
         <p class="project-card-title">Functional Prototype</p>
       </div>
