@@ -11,6 +11,14 @@ header-includes:
     - \pagenumbering{gobble} 
 --- 
 
+**Team:** _Sinicus_
+<br>
+Karen Chen, Elias Herrera Hernandez, Mallory Moore, Tien Phan, Rachel Williams
+
+Spotted Lanternflies are invasive insects to the United States that have caused disruptions to the wine and grape industry. Our design challenge was to create a device that will mitigate these disruptions.
+
+---
+
 [Client Pitch](#client-pitch)
 [Functional Prototype](#functional-prototype)
 [Client Report](#client-report)
@@ -116,7 +124,10 @@ Petit, Elsa, Zoe Robinson, Jessica Ellis, Max Resnick, Amber Ali, and Sonia Schl
 
 Rohde, Barukh, Miriam F Cooperband, Isaiah Canlas, and Richard W Mankin. 2022. “Evidence of Receptivity to Vibroacoustic Stimuli in the Spotted Lanternfly Lycorma Delicatula (Hemiptera: Fulgoridae).” Journal of Economic Entomology 115 (6): 2116–20. <a href= "https://doi.org/10.1093/jee/toac167">https://doi.org/10.1093/jee/toac167.</a>
 
+---
+
 # Functional Prototype
+
 ## Design Intent and Functionality
 
 
@@ -413,23 +424,9 @@ Our project seeks to mitigate SLF damage in grape vineyards, given that it negat
 </ol>
 <br>
 
-
-#Client Report
 ---
-layout: project
-title: MAE 2250 - Exhibit Client Report
-description: Class Assignment
-image: /assets/images/spotted_lanternfly4.jpg
-fontsize: 11pt
-geometry: margin=1in
-papersize: letter
-pagestyle: empty
-group: group1
----
-**Team:** _Sinicus_
-<br>
-Karen Chen, Elias Herrera Hernandez, Mallory Moore, Tien Phan, Rachel Williams
 
+# Client Report
 
 ## Context and Problem Statement
 During grape harvest season, spotted lanternflies (SLFs) are more attracted to grapevines than their typically preferred trees of heaven. SLFs feed on the phloem of gravepines, which reduces nitrogen and carbon in the soil, resulting in less healthy grapes. In addition, grape harvest batches containing too many SLFs are immediately discarded. Because grapes are essential to wine and juice industries, plentiful grape harvests are essential for the success of these industries. Our solution involves attracting SLFs to something other than the grapevines and trapping them before they access grapevines at all. We decided to take this approach in order to stem grapevine damage from the start, preventing harvest complexity and preserving harvest profits.
