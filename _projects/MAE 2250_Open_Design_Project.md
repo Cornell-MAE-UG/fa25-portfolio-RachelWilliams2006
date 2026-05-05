@@ -17,13 +17,11 @@ Karen Chen, Elias Herrera Hernandez, Mallory Moore, Tien Phan, Rachel Williams
 
 Spotted Lanternflies are invasive insects to the United States that have caused disruptions to the wine and grape industry. Our design challenge was to create a device that will mitigate these disruptions.
 
----
-
 [Client Pitch](#client-pitch)
 [Functional Prototype](#functional-prototype)
 [Client Report](#client-report)
 
-
+---
 
 # Client Pitch
 
@@ -437,21 +435,21 @@ We built a hand crank mechanism that attracts SLFs and sweeps them into a collec
 
 
 <div style="text-align: center;">
-  <img src="{{ '/assets/images/final_presentation_assembly.png' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
+  <img src="{{ '/assets/images/Fig 1. Final Prototype Sketch.jpg' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
 </div>
 <center> Fig 1. Rough sketch of final prototype </center>
 <br>
 
 
 <div style="text-align: center;">
-  <img src="{{ '/assets/images/overall_assembly_diagram.png' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
+  <img src="{{ '/assets/images/Fig 2a.jpg' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
 </div>
 <center> Fig 2a. Overall Assembly Diagram </center>
 <br>
 
 
 <div style="text-align: center;">
-  <img src="{{ '/assets/images/shaft_stand_detail.png' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
+  <img src="{{ '/assets/images/Fig 2b.jpg' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
 </div>
 <center> Fig 2b. Detail of Shaft and Stand Assembly</center>
 <br>
@@ -471,14 +469,14 @@ We first tested the functionality of two different rake styles at sweeping off S
 
 
 <div style="text-align: center;">
-  <img src="{{ '/assets/images/rake_1.jpg' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
+  <img src="{{ '/assets/images/Fig 3. Prototype rake style 1.jpg' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
 </div>
 <center>Fig 2. Prototype rake style 1</center>
 <br>
 
 
 <div style="text-align: center;">
-  <img src="{{ '/assets/images/rake_2.jpg' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
+  <img src="{{ '/assets/images/Fig 4. Prototype rake style 2.jpg' | relative_url }}" alt="Centered Image" style="max-width:100%; height:auto;">
 </div>
 <center>Fig 3. Prototype rake style 2</center>
 <br>
