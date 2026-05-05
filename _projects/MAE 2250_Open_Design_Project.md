@@ -17,9 +17,9 @@ Karen Chen, Elias Herrera Hernandez, Mallory Moore, Tien Phan, Rachel Williams
 
 Spotted Lanternflies are invasive insects to the United States that have caused disruptions to the wine and grape industry. Our design challenge was to create a device that will mitigate these disruptions.
 
--[Client Pitch](#client-pitch)
--[Functional Prototype](#functional-prototype)
--[Client Report](#client-report)
+[Client Pitch](#client-pitch) <br>
+[Functional Prototype](#functional-prototype) <br>
+[Client Report](#client-report)
 
 ---
 
