@@ -9,3 +9,6 @@ permalink: /cv/
 
 <figure style="text-align: center;">
   <img src="{{ '/assets/images/resume.JPEG' | relative_url }}"
+       alt="Resume"
+       style="max-width:100%; height:auto;">
+</figure>
