@@ -7,4 +7,5 @@ permalink: /cv/
 
 [Download my CV]({{ "/assets/Williams_Resume_Fall_2026.pdf" | relative_url }}) in PDF format.
 
-<img src="/assets/images/resume.jpg" alt="Resume" width="500">
+<figure style="text-align: center;">
+  <img src="{{ '/assets/images/resume.JPEG' | relative_url }}"
