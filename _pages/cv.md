@@ -13,18 +13,18 @@ permalink: /cv/
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Junior undergraduate at Cornell University pursuing a B.S. in Mechanical Engineering. Motivated by hands-on design, prototyping, and problem-solving, with experience applying engineering principles to practical projects.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.87/4.00 | Graduation: May, 2028
 
-- **[High School Name]**  
-  *High School Diploma*  
-  Graduation: [Month, Year]
+- **[Georgia Tech Europe]**  
+  *Study Abroad Program*  
+  August 2026 - December 2026
 
 ---
 
